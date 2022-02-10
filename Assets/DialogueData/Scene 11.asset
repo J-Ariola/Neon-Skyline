@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 11
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - Kawashima Junction is a busy place.
+    - Used to be a major city in Japan,
+    - "But like the Devil\u2019s Crater, it now belongs to the Underground."
+    - There's only a few places left in the word that are free or separate from it.
+    - It sprawls across the globe, consuming not just the land,
+    - But the people too.
+    - Kawashima Junction is a hub of transportation.
+    - Means a lot of people would be watching.
+    - "We thought we\u2019d miss the start of the race,"
+    - The place is too big,
+    - But once we showed up...
+    - We realized that was impossible.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Looks like we made it.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - How in the hell?
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - The junction had been closed.
+    - "The roads \u2014"
+    - Rearranged into tracks, like the last races.
+    - Before, it looked like they made due with what was available,
+    - Hacking the roads at the previous races,
+    - But this was different.
+    - This was a show.
+    - People stood on rooftops with binoculars, and crowded the street corners...
+    - Watching...
+    - Waiting...
+    - Large aircraft loomed in the distance-
+    - Most likely where the masterminds of this were lounging.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - And my daughter.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - What was that?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Nothing.
+    - Let's get this over with.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Yeah.
+    - Think what that guy said is true?
+    - "That if you perform for them they\u2019ll help you out?"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "I\u2019m not a monkey."
+    - "I didn\u2019t come here to perform."
+    - I came to win.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Look, just see if you can pull off a trick or something.
+    - I went and rigged the car up so you can use anything they toss at you.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Thanks, Sam.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - No problem!
+    - "It\u2019s what I\u2019m here for."
+    - You just do your part and win.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - You can count on it.

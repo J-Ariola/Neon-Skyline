@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d07b9b25df5513a4cbe342dc72ba6def, type: 3}
+  m_Name: Mysterious Person - Jack Ryder
+  m_EditorClassIdentifier: 
+  name: ???
+  portrait: {fileID: 2800000, guid: be72801bc24dfac4fb006ae24c0a79c8, type: 3}
+  dialogueTextColor: {r: 0.28627452, g: 0.28627452, b: 1, a: 1}

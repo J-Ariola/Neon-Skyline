@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1573710437924616}
+  m_IsPrefabParent: 1
+--- !u!1 &1545222960488476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4317944391214484}
+  m_Layer: 0
+  m_Name: racetrack
+  m_TagString: RaceTrack
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1573710437924616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4643856915497264}
+  - component: {fileID: 114604949927833842}
+  - component: {fileID: 114314991142735790}
+  m_Layer: 0
+  m_Name: ProceduralTrackGenerator
+  m_TagString: Generator
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4317944391214484
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1545222960488476}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4643856915497264}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4643856915497264
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1573710437924616}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4317944391214484}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114314991142735790
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1573710437924616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8759b69bcebdcbb4c8bb1c49f7f5e4a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  adjectiveFile: {fileID: 4900000, guid: 7ae113ff0d7748f4d900838aefa62f03, type: 3}
+  nounFile: {fileID: 4900000, guid: 281d8e67abd5ee3448796b6cc2b39db7, type: 3}
+  seed: 
+  wordCount: 2
+--- !u!114 &114604949927833842
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1573710437924616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f234b0dce473b2e418e36c3bb5e05bbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pieceCount: 20
+  useRandSeed: 1
+  seed: racetrack
+  racetrack: {fileID: 1545222960488476}
+  seedGen: {fileID: 0}
+  trackPieces:
+  - {fileID: 1762594199619988, guid: 09bf58ee594720b45804c3aa4551455c, type: 2}
+  - {fileID: 1860685787100890, guid: 0b2d1acc3f6598046bbbd0dedd4e75ed, type: 2}
+  - {fileID: 1343426978101328, guid: a8ddbc2672a8d4445af7a467fbc6122f, type: 2}
+  - {fileID: 1993817864641028, guid: 3a72dacbb8fd8a248a72e6d58286b11d, type: 2}
+  - {fileID: 1526083989406036, guid: cdc4017142e33b74fbda93e304bcc8a2, type: 2}
+  - {fileID: 1180984173787978, guid: 440a2bcbae0314546a7b19d782281697, type: 2}
+  - {fileID: 1168732580470130, guid: 39952dc4c75a53b4d8beed40f71b781f, type: 2}
+  - {fileID: 1710987380293210, guid: 6dfd8b85825384749b8748105ac78838, type: 2}
+  - {fileID: 1451693252878460, guid: c1ef8e0e14571fe4cb4074c9838ceed8, type: 2}
+  - {fileID: 1856568205945748, guid: 1ca2d163d5d946749b1c0245e428fd1b, type: 2}
+  - {fileID: 1710272196512508, guid: 32cc5c2f26ceb6d49b75acfe9172b3e4, type: 2}
+  - {fileID: 1291955098081984, guid: bcf1f9cf5e03db3419b8b54b75118381, type: 2}
+  - {fileID: 1429342707719752, guid: ee2af6e76ed608b45be6cda3af016dfd, type: 2}
+  - {fileID: 1113397853984094, guid: 45f079122cfb8674daf42d234e9671ea, type: 2}
+  - {fileID: 1670394445955200, guid: 1ad09bc55668d3c4cb884bbac94c1bf3, type: 2}
+  - {fileID: 1499707491839806, guid: 4b715b448e1f8b94cb1ba8d064ec6b15, type: 2}
+  - {fileID: 1577578863141710, guid: 3b9f73dfc35f47641acb8327869e2b64, type: 2}
+  - {fileID: 1375813180896296, guid: 3374b1dacd681a942b26a8a369f17f61, type: 2}
+  - {fileID: 1356768546104698, guid: b03769552f9a5dd4d802f834e17c86c6, type: 2}
+  - {fileID: 1630156844054254, guid: 959acab9883a58a46ad2e493cd40fe60, type: 2}
+  - {fileID: 1025621724486006, guid: 40ca82e59347428408bc990c60fa2a34, type: 2}
+  - {fileID: 1045046371732000, guid: 8a7938dfd69c37a4aa6c3d467025ae43, type: 2}
+  - {fileID: 1836053079082686, guid: 0bed18c78747d6a478b4497d5fee2491, type: 2}
+  - {fileID: 1286959858343168, guid: 28610ec30215505459ad0170fcd8cadc, type: 2}
+  - {fileID: 1347284299685444, guid: ce00109028c8a944e8d22f6b7f79391e, type: 2}
+  - {fileID: 1509215511722354, guid: 3908720c326fd1945bf874b3b956de13, type: 2}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: TestDialogueData
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - name: Queen Eli
+    portrait: {fileID: 2800000, guid: 356bb1864c39f514eb2f01636666237b, type: 3}
+    dialogueTextColor: {r: 0.023529412, g: 0.2627451, b: 0.65882355, a: 1}
+    sentences:
+    - What are you doing here?
+    - You really shouldn't be here.
+  - name: Narrator
+    portrait: {fileID: 0}
+    dialogueTextColor: {r: 0.99215686, g: 0.1254902, b: 0.1254902, a: 1}
+    sentences:
+    - Please....
+    - I am number one around here. You can't tell me what to do.
+  - name: Queen Eli
+    portrait: {fileID: 2800000, guid: 356bb1864c39f514eb2f01636666237b, type: 3}
+    dialogueTextColor: {r: 0.19215687, g: 0.39607844, b: 1, a: 1}
+    sentences:
+    - Ha, do you really think you are number 1?
+    - I'll show you what it is like to be Queen.
+  - name: Narrator
+    portrait: {fileID: 0}
+    dialogueTextColor: {r: 0.99215686, g: 0.1254902, b: 0.1254902, a: 1}
+    sentences:
+    - Bring it!

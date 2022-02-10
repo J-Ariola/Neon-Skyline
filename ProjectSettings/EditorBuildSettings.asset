@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/StudioMainMenuScene.unity
+    guid: c93913e156aa1964fa4432583dd6bb91
+  - enabled: 1
+    path: Assets/_Scenes/DialogueSystemTestScene.unity
+    guid: 934c31d85230773488090936b4d1a393
+  - enabled: 1
+    path: Assets/_Scenes/MechanicsScene.unity
+    guid: 6d4f6319db3b078448e0aa5ffdbcd4e0
+  - enabled: 1
+    path: Assets/_Scenes/JarrodMechanicsScene.unity
+    guid: 9142b0375a8897549a4b5393c3c6c81b
+  - enabled: 1
+    path: Assets/_Scenes/Level0RoughDraft.unity
+    guid: f17e85c7f21bfc74794cfc3543296055
+  - enabled: 1
+    path: Assets/_Scenes/Level1.unity
+    guid: 2e24f5389579cb1498aa55be0772778c
+  - enabled: 1
+    path: Assets/_Scenes/Level2.unity
+    guid: eaa1dc4506b03ed4f8a262213405e791
+  - enabled: 1
+    path: Assets/_Scenes/Level3.unity
+    guid: 6d719f60db23d8646a9359272e2f108e
+  - enabled: 1
+    path: Assets/_Scenes/Level4.unity
+    guid: 81d3ff6d397d7074981671b0421cef9c
+  - enabled: 1
+    path: Assets/_Scenes/StoryLevel0.unity
+    guid: 6ebb82f1b9996ae46a3b6c5cb881b05f
+  - enabled: 1
+    path: Assets/_Scenes/StoryLevel1.unity
+    guid: b07fe0a5c2ac88744be57f38fbae9901
+  - enabled: 1
+    path: Assets/_Scenes/StoryLevel2.unity
+    guid: d94d7ffe0f496044a8f06d465331b38d
+  - enabled: 1
+    path: Assets/_Scenes/StoryLevel3.unity
+    guid: 73584b584c61f194b85d91755826141b
+  - enabled: 1
+    path: Assets/_Scenes/StoryLevel4.unity
+    guid: b98b2fd7cc955cb4999e75d6277dc0e9
+  - enabled: 1
+    path: Assets/_Scenes/HunterProceduralTest.unity
+    guid: 86023172ef7205e43846f33faf56c696
+  - enabled: 1
+    path: Assets/_Scenes/CharacterSelect.unity
+    guid: 5d9be6c880315ab4abb3d347db7c58b6
+  - enabled: 1
+    path: Assets/_Scenes/LevelSelect.unity
+    guid: a2ac39f5174e8564ba1949302c52cd81
+  - enabled: 1
+    path: Assets/_Scenes/ProceduralTrackTestScene.unity
+    guid: 616518137abf2c545941e7b368797d14
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene1 - Taken.unity
+    guid: c65220439b3637045ba0829116338868
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene2 - Junkyard.unity
+    guid: 6218ed27f8c2c264dacce8b93b50f2ca
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene3 - The Lion's Den.unity
+    guid: f60144f1420c80c48ab55a6d460fdbf9
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene4 - Getting Back into Gear.unity
+    guid: 84ef6f040df34154e8382fadd61b9884
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene5 - Meeting Prost.unity
+    guid: 48192f3bddebdba40afefd5f09a7c740
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene6 - Leaving the Lion's Den.unity
+    guid: 8d849a370325fee4389610e993fe71af
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene7 - Only the Beginning.unity
+    guid: f3c2dd90da9afd54ba9e385ccd473fb2
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene8 - The Devil's Crater.unity
+    guid: 6a646ddd884e6fc4c84e478e9aef7ad4
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene9 - 'They' Have Everything Under Control.unity
+    guid: 267b427b93e10a641a26bd032a7aeca5
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene10 - Is This a Game.unity
+    guid: bf5cef4f3235d9746a7864123c74337c
+  - enabled: 1
+    path: Assets/_Scenes/DialogueScene11 - Kawashima Junction.unity
+    guid: d89bf0f0efd156a48a776ddac1cda67b

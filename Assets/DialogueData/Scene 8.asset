@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 8
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - "The Devil\u2019s Crater."
+    - It used to be in Russia.
+    - Now it all belongs to the Underground.
+    - Only a few places remain independent.
+    - Most of the rich folks live there, in their own paradise.
+    - If where they live is Heaven...
+    - "Then you can guess where the Devil\u2019s Crater is."
+    - Name comes from a bomb that landed here, back before we were united.
+    - "It\u2019s liveable now-"
+    - But most people still keep their distance.
+    - "I\u2019d never take her here."
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Is this the place?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Looks like it.
+    - Never seen this many people here before.
+    - 'Must mean something''s going on. '
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Wait...
+    - "You\u2019ve been here before?\r\n"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Once...
+    - About 5 years ago-
+    - I raced for one of the local mob bosses.
+    - One of my last few jobs before I got out.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - What kinda s**t did you get into man?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Better not to ask.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Uhh...
+    - Okay then.
+    - Well, let's line up then.
+    - "I\u2019ll keep an eye out for anyone who looks like they\u2019re running the
+      show."
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "Don\u2019t expect much."
+    - They like to keep hidden around here.
+    - Last time they transmitted the directions.
+    - Let me know if you find anything.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "I\u2019ll do my best."
+    - Good luck out there Adam...
+    - Make sure you win.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "Tell me something I don\u2019t know."

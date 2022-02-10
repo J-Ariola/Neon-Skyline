@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 2
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - The Junkyards.
+    - They say you can find anything here.
+    - '"One man''s trash is another man''s treasure" has never sounded more true in
+      their ears.'
+    - Scrappers and mechanics climb over the heaps and sift through the discarded
+      remains of machines, cars, and other junk like old miners, panning for gold.
+    - They take them back to their shops, and cook up something that might catch a
+      bystanders eye, anything for some money.
+    - They say you can find anything here.
+    - I believe it.
+    - The address on that note took me to a small shop, a garage hanging off the side.
+    - You see dozens of these kinds of shops along a street down here-
+    - It's nothing out of the ordinary.
+    - But this one might have a clue to where they took her.
+    - "I went around back and checked in the garage first, looking for any sort of
+      note or direction, but I didn\u2019t find anything."
+    - It was only when I started walking away when I heard the click of a gun.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Don't move.
+    - You know what'll happen if you do.
+    - What the hell do you think you're doing in my shop?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Listen, I'm not here to steal anything, I'm looking for my daughter.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Bulls**t.
+    - Why would your daughter be in a place like this?
+    - You better put back what you stole, I'm this close to blowing your head off.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "I\u2019m serious, I didn\u2019t take anything, you can search me."
+    - Someone kidnapped my daughter.
+    - When I got home, she was gone and there was note inside with this address and
+      a set of keys.
+    - "I\u2019m just looking for my daughter, thats all."
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - '...'
+    - You got a set of keys?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Yeah, do you know anything?
+    - I'll do whatever it takes to get her back.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - '...'
+    - Come with me.
+    - I'll tell you this,
+    - I don't know anything about a kidnapped girl.
+    - But a couple of goons came by the other day and told me that someone would be
+      coming with some keys to a car, and that I'd be your mechanic for it.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Do you remember what they looked like?
+    - Were they part of some group?
+    - Tell me everything you remember.
+    - Why did you agree to work with them?
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "I don\u2019t know who they are but\u2026"
+    - "I wouldn\u2019t mess with them."
+    - With the kind of gear and clothes they had-
+    - "I\u2019m guessing they go deep into the Underground."
+    - People like that can make someone like you or me disappear without a trace.
+    - "That\u2019s why I agreed."
+    - "I don\u2019t know what they want from you..."
+    - "But I\u2019d try to stay on their good side if you ever want to see your girl
+      again."
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - This is bulls**t!
+    - You expect me to just go along with them after they kidnapped my daughter?
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - I do.
+    - It's the safest way.
+    - "They took her because they knew it\u2019d be enough."
+    - "If that\u2019s their leverage, you think they\u2019ll just kill her?"
+    - "Look. I don\u2019t know what your story is..."
+    - "But I\u2019m not about to pick a fight with them."
+    - "Just do what they say for now\u2014"
+    - "And we\u2019ll get out of this just fine.\n"
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - He took me down the street, to some sort of warehouse.
+    - Shipping crates stacked on top of each other, 3 stories high.
+    - Each one, some sort of storage house for your most protected belongings.
+    - "Doesn\u2019t keep people from trying to break in..."
+    - But most people will shoot if they catch you trying something like that.
+    - We stopped at a plain looking crate, on the bottom level.
+    - Nothing on the outside,
+    - Not even a listen owner on its panel.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Try one of your keys.
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - I pressed the small block hanging off the key ring to the door, and the click
+      of the hydraulic locks announced that it was open.
+    - Inside, rested a car...
+    - Black, with neon accents,
+    - "This wasn\u2019t some junker car that someone had scrapped together from a
+      toaster, a bathtub, and other junk parts\u2014"
+    - This was a real car.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Holy hell...
+    - To think the treasure was just hiding here with all of our junk.
+    - How fast do you think this baby can go?
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - I unlocked the car with my key, and slid inside.
+    - Sleek and smooth,
+    - "The interior of the car seemed like something out of a magazine you\u2019d
+      see a hundred years ago back when luxuries were still affordable."
+    - A note sat folded on the dashboard,
+    - Most likely the next clue for where to go.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - The Lion's Den,
+    - 4:00AM.
+    - Finish first
+    - Or else...
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Did you say the Lion's Den?
+    - What business do you have over there?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - A race, apparently.

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 5
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - Thank you all for coming, it was a wonderful race!
+    - Be sure to grab a refreshment by the door as you leave.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Prost.
+    - I need to talk to you.
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - Ah yes, our esteemed winner!
+    - I suppose I can do that for you.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Where the hell is my daughter you prick?
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - My my~
+    - Is that any way to treat your host?
+    - You do realize I can have you dead before you can even leave this room, right?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - You didn't answer my question.
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - Well you see...
+    - That's because I don't have an answer to your question.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - '...'
+    - What?
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - I have no idea who your daughter is.
+    - To that point, I have no idea who you are either.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Bulls**t-
+    - I know you took her.
+    - "You\u2019re the one who left me that car and this note to race."
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - Ah,
+    - Well that is where you're mistaken.
+    - I merely provided the location-
+    - I have no idea why you're racing.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Well then who set this up?
+    - You have to know that at least?
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - I do.
+    - But it doesn't do me well to sell out my trade partners you know.
+    - A man's gotta stay in business~
+    - And part of the deal was to keep my mough shut.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - You bast**d!
+    - Just tell me what you know!
+    - I'm just trying to find my daughter.
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - "Oh I wouldn\u2019t try to threaten me if I were you."
+    - "You\u2019ll never be able to find her if you don\u2019t make it out of here
+      alive"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - '...'
+  - characterProfile: {fileID: 11400000, guid: 015dcbdf33759f448a7672c45cfb112f, type: 2}
+    sentences:
+    - Much better.
+    - All I can tell you is walk back to your car and go home.
+    - "You\u2019ve got some work to do."
+    - Excuse me, guards?
+    - Please see our visitor out.

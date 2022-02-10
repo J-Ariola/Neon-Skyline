@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c25c1be82927e04b926b813c2eb103f, type: 3}
+  m_Name: StraightTwistRight90_TrackListData
+  m_EditorClassIdentifier: 
+  trackList:
+  - track: {fileID: 1343426978101328, guid: a8ddbc2672a8d4445af7a467fbc6122f, type: 2}
+  - track: {fileID: 1168732580470130, guid: 39952dc4c75a53b4d8beed40f71b781f, type: 2}
+  - track: {fileID: 1710987380293210, guid: 6dfd8b85825384749b8748105ac78838, type: 2}
+  - track: {fileID: 1771437557229278, guid: ca5453897a9181b4e9a88c10be118e53, type: 2}
+  - track: {fileID: 1819219832183402, guid: 124cb0448ef20864685b5c78fb440c3a, type: 2}
+  - track: {fileID: 1318848832522312, guid: 42e1aecdda662f1459670110d5de1747, type: 2}
+  - track: {fileID: 1113397853984094, guid: 45f079122cfb8674daf42d234e9671ea, type: 2}
+  - track: {fileID: 1286959858343168, guid: 28610ec30215505459ad0170fcd8cadc, type: 2}
+  - track: {fileID: 1347284299685444, guid: ce00109028c8a944e8d22f6b7f79391e, type: 2}
+  - track: {fileID: 1526083989406036, guid: cdc4017142e33b74fbda93e304bcc8a2, type: 2}
+  - track: {fileID: 1180984173787978, guid: 440a2bcbae0314546a7b19d782281697, type: 2}
+  - track: {fileID: 1451693252878460, guid: c1ef8e0e14571fe4cb4074c9838ceed8, type: 2}
+  - track: {fileID: 1856568205945748, guid: 1ca2d163d5d946749b1c0245e428fd1b, type: 2}
+  - track: {fileID: 1710272196512508, guid: 32cc5c2f26ceb6d49b75acfe9172b3e4, type: 2}
+  - track: {fileID: 1429342707719752, guid: ee2af6e76ed608b45be6cda3af016dfd, type: 2}

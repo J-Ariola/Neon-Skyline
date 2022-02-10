@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 4
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - It had been a while since I raced.
+    - I'm rusty.
+    - Having a new car doesn't help.
+    - But it's more advanced than anything I've ever ... before.
+    - Makes it almost easy to win.
+    - Jack had a pretty nice car too.
+    - Maybe he got it like mine?
+    - Doesn't matter-
+    - I need to talk to Prost. If he's got my daughter here somewhere...
+    - He's a dead man.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Wow, that was some nice racing.
+    - You a pro?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - I was.
+    - It's been a while.
+    - Good thing I still have it.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - So what's next?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - I'm going to see Prost.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - I won't stop you-
+    - But be careful.
+    - Pretty sure they won't let me go nicely if something happens to you.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - No promises.

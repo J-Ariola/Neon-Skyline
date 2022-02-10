@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 6
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "So, looks like you didn\u2019t get killed."
+    - "Did you find out about your daughter?\r"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - No.
+    - "Prost doesn\u2019t wanna talk about who paid him for the space."
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "Damn\u2026"
+    - "Well at least that means he\u2019s not behind this."
+    - "You know what the say about the Lion\u2019s Den:"
+    - "People show up, but rarely \u2014 \r"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - I know what they say Sam,
+    - Now shut it.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Alright, alright, my bad...
+    - So did you get any clues at all?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "No, I didn\u2019t."
+    - But whoever they are-
+    - "I don\u2019t think they\u2019re done with us."
+    - Prost said I had work to do.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "Great\u2026"
+    - well I guess let's get out of here, before someone takes off with your car.

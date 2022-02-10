@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Magnet
+  - MassChange
+  - Track
+  - NoRay
+  - Flag
+  - Ramp
+  - AudioManager
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - RaceTrack
+  - Player1Laps
+  - Player2Laps
+  - Player3Laps
+  - Player4Laps
+  - PlaceTracker
+  - Powerup
+  - Generator
+  - PauseUI
+  - EventSystem
+  - Player0
+  - Player0Laps
+  - BGMPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - HideP1
+  - HideP2
+  - HideP3
+  - HideP4
+  - HideAll
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player1
+    uniqueID: 1082982057
+    locked: 0
+  - name: Player2
+    uniqueID: 1764845731
+    locked: 0
+  - name: Player3
+    uniqueID: 1165469093
+    locked: 0
+  - name: Player4
+    uniqueID: 3053370647
+    locked: 0

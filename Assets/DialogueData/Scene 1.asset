@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 1
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - It was a cold night when they took her.
+    - I remember trying to catch my breath in my hands, already numb from the cold.
+    - Shattered glass...
+    - Broken Chairs...
+    - There was definitely a struggle here.
+    - I thought we were safe here-
+    - I thought I had escaped the Underground.
+    - "I should have known it wouldn\u2019t have been so easy."
+    - "I\u2019m a racer."
+    - Well...
+    - I used to be.
+    - Back in the day, I used to race for some groups in order to make some money.
+    - That's how they do things in the Underground.
+    - They used to just fight each other for power and resources, but with the lack
+      of police and regulation...
+    - There was a lot of collateral.
+    - We lost a lot of good people back then.
+    - Now, they use racing.
+    - "Didn\u2019t keep the killings from happening, but it helped."
+    - "I didn\u2019t stick my nose into what they did, I just raced, got paid, and
+      got out."
+    - I thought I did at least.
+    - "We didn\u2019t live in any sort of paradise..."
+    - But it was warm, and we could call it home.
+    - My daughter, Jessica, loved it.
+    - "She doesn\u2019t remember the Underground, she was too young."
+    - "It\u2019s better that way."
+    - I want her to grow up better than I did.
+    - None of that mattered at that point though...
+    - As I called out her name that day...
+    - An empty house standing before me.
+    - The only thing left of her was a note on the counter...
+    - An address...
+    - And a set of keys.

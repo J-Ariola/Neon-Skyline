@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 9
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Phew...
+    - That was a close one.
+  - characterProfile: {fileID: 11400000, guid: 952a5c36573a86045be5b8bad49fdedb, type: 2}
+    sentences:
+    - Hey man, what the hell was that about?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Huh?
+    - What are you talking about?
+  - characterProfile: {fileID: 11400000, guid: 952a5c36573a86045be5b8bad49fdedb, type: 2}
+    sentences:
+    - You freaking won man!
+    - Do you know what they're gonna do to me?
+    - They're gonna take everything from me!
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "I don't know what you are talking abo \u2014"
+  - characterProfile: {fileID: 11400000, guid: 952a5c36573a86045be5b8bad49fdedb, type: 2}
+    sentences:
+    - Screw you man,
+    - Yes you do!
+    - They don't just let you go if you lose!
+    - I could have had it all,
+    - I could have lived with them.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Who is "They"?
+    - Do  you know something about who's running this?
+  - characterProfile: {fileID: 11400000, guid: 952a5c36573a86045be5b8bad49fdedb, type: 2}
+    sentences:
+    - What,
+    - You don't know?
+    - You think some mob boss has this kind of pull?
+    - Just look at you car!
+    - Piss off,
+    - I'm not helping you.
+    - You ruined my life.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Adam!
+    - You won!
+    - I wasn't able to find out anything but at least we're winning!
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - That's alright Sam,
+    - I think i've got a good idea of what's going on.
+    - Let's get out of here before this asshole tries to start something.
+  - characterProfile: {fileID: 11400000, guid: 952a5c36573a86045be5b8bad49fdedb, type: 2}
+    sentences:
+    - Hey!
+    - I'm not done talking to you!
+    - "Get over here, I\u2019m gonna \u2014"
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - That was the last thing I heard before the ringing started.
+    - Blood sprayed across me as he hit the ground.
+    - Most people ran.
+    - "That\u2019s how you could tell who lived here -"
+    - The ones who stayed.
+    - "The gunner wasn\u2019t found."
+    - The only traces of Jeremy left were running down the drain and falling off my
+      jacket.
+    - That was the power of the people who lived above.
+    - He died on a whim...
+    - And it probably took only a snap of their fingers.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "What the fuck man\u2026"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Like I said Sam,
+    - Let's leave.

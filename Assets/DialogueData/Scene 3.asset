@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 3
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - The Lion's Den is not a place where good people go.
+    - It's where the strong prey on the weak.
+    - Most missong people end up onw way or another at the Lion's Den-
+    - But they rarely get to leave...
+    - Alive that is.
+    - If you're looking for service of any kind, you usually take a stop by the Lion's
+      Den.
+    - It's run by Richard Prost ~
+    - A vile man who see other people a simply tools to be played with and discarded-
+    - their lives meaningless.
+    - "That\u2019s the kinda mentality I\u2019d imagine you\u2019d need to run a place
+      like this.\r\n"
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - "It didn\u2019t take long to find where the race was at."
+    - "They weren\u2019t trying to hide it."
+    - 'Eight cars, '
+    - Each lined up at the end of the street.
+    - "I didn\u2019t recognize them, but I\u2019ve been out of the scene for a while..."
+    - It's not surprising to have new faces.
+    - One of the racers headed over to us when we parked.
+  - characterProfile: {fileID: 11400000, guid: 748d7ad69b208254b8fc7d237e9771ea, type: 2}
+    sentences:
+    - You the last one?
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Guess so.
+    - Who's in charge of this race?
+    - I've got a few questions for them...
+  - characterProfile: {fileID: 11400000, guid: 748d7ad69b208254b8fc7d237e9771ea, type: 2}
+    sentences:
+    - "Hold up bud, we\u2019re not done here."
+    - Who the hell are you?
+    - "Don\u2019t remember seeing you around here before."
+    - "Got a nice car though, who\u2019d you steal it from?\r"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - P*ss off.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Adam, just answer him.
+    - "Looks like he\u2019s not gonna get out of your way until you do."
+  - characterProfile: {fileID: 11400000, guid: 748d7ad69b208254b8fc7d237e9771ea, type: 2}
+    sentences:
+    - Adam huh?
+    - "Name sounds familiar\u2026"
+    - '...not.'
+    - The name's Jack.
+    - Jack Ryder.
+  - characterProfile: {fileID: 11400000, guid: 63aa6d5b13d9d7040bc7c31f2a1c0d95, type: 2}
+    sentences:
+    - Hate to break it to you-
+    - "But you\u2019re not going anywhere till after the race."
+    - "Richard\u2019s men are keeping us here at the cars."
+    - Doesn't matter to me, but you kept us waiting...
+    - And I'm dying for some action
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - I got here at 4, that's what the note said.
+    - Now are we gonna race or not?
+    - I don't have time for this.
+  - characterProfile: {fileID: 11400000, guid: 63aa6d5b13d9d7040bc7c31f2a1c0d95, type: 2}
+    sentences:
+    - Good, just what I want to hear.

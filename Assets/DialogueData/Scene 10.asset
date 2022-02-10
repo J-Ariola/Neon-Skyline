@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 10
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - It took a few days for them to contact us again.
+    - We laid low,
+    - "I stayed at Sam\u2019s."
+    - Better we stick together in case something happens.
+    - "He\u2019s a good guy."
+    - "Doesn\u2019t deserve to get caught up in this."
+    - He works on the car and keeps positive.
+    - "Only reason I\u2019m still sane."
+    - "It\u2019s been 10 days since they took her."
+    - I was losing hope when he knocked on our door.
+    - Tall,
+    - Dark clothes,
+    - "Nondescript \u2014"
+    - clearly working for them.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Hello?
+    - "We\u2019re around back."
+  - characterProfile: {fileID: 11400000, guid: daacde4e88fcdc64a94887b67e16b4b5, type: 2}
+    sentences:
+    - You have another race.
+    - Tonight,
+    - At the Kawashima Junction.
+    - "You\u2019ve done well to make it this far."
+    - Race starts at midnight.
+    - Be there.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "You work for them don\u2019t you?"
+    - The rich folks.
+    - So tell me.
+    - Where is my daughter?
+  - characterProfile: {fileID: 11400000, guid: daacde4e88fcdc64a94887b67e16b4b5, type: 2}
+    sentences:
+    - "\u2026"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "Listen punk, I\u2019m only gonna ask this one more time."
+    - Where. Is. My. Daughter?
+  - characterProfile: {fileID: 11400000, guid: daacde4e88fcdc64a94887b67e16b4b5, type: 2}
+    sentences:
+    - "I can\u2019t tell you."
+    - Even if I did,
+    - "There\u2019s nothing you can do."
+    - They have her.
+    - "I\u2019ll tell you that she\u2019s alive, if that\u2019s what you want to hear."
+    - "But I\u2019d recommend you keep your head down,"
+    - Unless you want to be blown apart like your fellow racer.
+    - "We\u2019re running out of competition for you,"
+    - You should be happy that you keep winning.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - '...'
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "Look, we\u2019ll be there."
+    - Anything else you have to tell us?
+  - characterProfile: {fileID: 11400000, guid: daacde4e88fcdc64a94887b67e16b4b5, type: 2}
+    sentences:
+    - "Oh, I\u2019m glad you reminded me."
+    - "Since you already know who\u2019s running this,"
+    - Then you know they like to be entertained.
+    - Try to put on a show for them,
+    - And they might sponsor you...
+    - To give you an edge in the race.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - What is this...
+    - A game?
+  - characterProfile: {fileID: 11400000, guid: daacde4e88fcdc64a94887b67e16b4b5, type: 2}
+    sentences:
+    - Hmm...
+    - I wonder.

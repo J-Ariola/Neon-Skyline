@@ -1,0 +1,5 @@
+Base path: 'E:/Programs/Unity_2020_1.8/Editor/Data', plugins path 'E:/Programs/Unity_2020_1.8/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at EyeHistogram.compute(4): failed to open source file: 'Common.cginc'
+  api=4 insize=2343 outsize=0 ok=0

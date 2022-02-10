@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecee6dc8d0cb3ef418c1c87e22bd278e, type: 3}
+  m_Name: Scene 7
+  m_EditorClassIdentifier: 
+  DialogueInfo:
+  - characterProfile: {fileID: 11400000, guid: e417eb5cdd39031458430804760990cc, type: 2}
+    sentences:
+    - The sun was out when we got back.
+    - "Felt like we\u2019d lived a whole day in between two. "
+    - "Sam\u2019s shop didn\u2019t have much to it."
+    - Makes it easy to spot the note on the counter.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "What\u2019s it say?"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - The next location.
+    - "Says it\u2019s at the Devil\u2019s Crater,"
+    - Four days from now.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Four days huh?
+    - Well at least we can get some rest.
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - "Rest isn\u2019t what I need right now..."
+    - I need to find my daughter.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - Look man, I get it-
+    - But you gotta calm down.
+    - "I know its hard but you keep going like this you\u2019re gonna burn out."
+    - "She\u2019s not going anywhere-"
+    - They need her to get you to race.
+    - "Just keep it up and we\u2019ll be fine."
+    - "Look, I\u2019ll ask around-"
+    - "See if I can find any info on these people if it\u2019ll help you take it easy."
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - '...'
+    - Fine.
+    - Where we gonna put that car?
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "Leave it here, I\u2019ll see if I can\u2019t take a look at it."
+    - Make some modifications if you want.
+    - "That is what I\u2019m here for."
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - Thanks.
+    - I'll be in touch.
+  - characterProfile: {fileID: 11400000, guid: 0784f156c92d084438523eae080152d8, type: 2}
+    sentences:
+    - "I\u2019m sure you will."
+    - "Try not to get yourself killed in the meantime.\r"
+  - characterProfile: {fileID: 11400000, guid: 53f1d81e296c84742a4588aecda05bf9, type: 2}
+    sentences:
+    - I'll do my best.
